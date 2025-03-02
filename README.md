@@ -5,16 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravjha0711" alt="gauravjha0711" /></a> </p>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **Data Structure and Algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://gauravjha.software/](https://gauravjha.software/)
+- 👨‍💻 All of my projects are available at [https://github.com/gauravjha0711?tab=repositories](https://github.com/gauravjha0711?tab=repositories)
 
-- 📫 How to reach me **gauravjha0711@gmail.com**
+- 📫 How to reach me **https://gauravjha.software/**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/gaurav-kumar-729503265/](https://www.linkedin.com/in/gaurav-kumar-729503265/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-kumar-729503265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kumar-729503265" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravjhagk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravjhagk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gauravjha0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravjha0711" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gauravjha0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravjha0711" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gauravjha0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravjha0711" height="30" width="40" /></a>
 </p>
