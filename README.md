@@ -1,3 +1,4 @@
+![logo](https://github.com/gauravjha0711/gauravjha0711/blob/main/backGround.png)
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
 <h3 align="center">I am a passionate and dedicated full-stack software engineer, committed to mastering both front-end and back-end technologies.</h3>
@@ -15,7 +16,8 @@
 - 🌱 I’m currently learning **Data Structure and Algorithms.**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/gauravjha0711?tab=repositories)
 - 📫 How to reach me at **[gauravjha.software](https://gauravjha.software/)**
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/gaurav-kumar-729503265/)
+- 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/gaurav-kumar-729503265/)**
+- ⚡ Fun fact **I am Roaster😉😁**
 
 ---
 ### ⚡️ Feel free to Connect with Me:
