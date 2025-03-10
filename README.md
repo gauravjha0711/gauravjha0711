@@ -1,17 +1,26 @@
 ![logo](https://github.com/gauravjha0711/gauravjha0711/blob/main/backGround.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
 <h3 align="center">I am a passionate and dedicated full-stack software engineer, committed to mastering both front-end and back-end technologies.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&width=500&lines=Full-Stack+Developer;DevOps+Learner;Software+Developer;Master+of+Algorithm;MERN+Stack+Developer;JavaScript+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Engineer;DSA+Enthusiast;DevOps+Explorer" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravjha0711&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjha0711" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-GauravJha0711-1f8acb?style=flat-square&logo=github" alt="Profile Badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-informational?style=flat-square&logo=javascript" alt="Stack Badge" />
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20DevOps-success?style=flat-square&logo=codeforces" alt="Focus Badge" />
+  <img src="https://komarev.com/ghpvc/?username=gauravjha0711&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 ---
 ### 🚀 About Me
-
+- 🌐 [Portfolio Website](https://gauravjha.software/) — Crafted with React, this interactive and modern portfolio highlights my skills, projects, and journey as full-stack developer.
 - 🔭 I’m currently exploring **emerging technologies and integrating them into real-world projects to drive innovation.**
 - 🌱 I’m currently learning **Data Structure and Algorithms.**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/gauravjha0711?tab=repositories)
