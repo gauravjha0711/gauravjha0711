@@ -1,6 +1,5 @@
 ![logo](https://github.com/gauravjha0711/gauravjha0711/blob/main/backGround.png)
 
-
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
 <h3 align="center">I am a passionate and dedicated full-stack software engineer, committed to mastering both front-end and back-end technologies.</h3>
