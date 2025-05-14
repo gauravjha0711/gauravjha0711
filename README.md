@@ -4,7 +4,6 @@
 
 <h3 align="center">I am a passionate and dedicated full-stack software engineer, committed to mastering both front-end and back-end technologies.</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Engineer;DSA+Enthusiast;DevOps+Explorer" />
 </p>
