@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Engineer;DSA+Enthusiast;DevOps+Explorer" />
 </p>
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Profile-GauravJha0711-1f8acb?style=flat-square&logo=github" alt="Profile Badge" />
   <img src="https://img.shields.io/badge/Stack-MERN-informational?style=flat-square&logo=javascript" alt="Stack Badge" />
