@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 
+
 <h3 align="center">I am a passionate and dedicated full-stack software engineer, committed to mastering both front-end and back-end technologies.</h3>
 
 <p align="center">
