@@ -1,4 +1,4 @@
-name: Generate Snake Animation (Dark)
+name: Generate Snake Animation (Light)
 
 on:
   schedule:            # runs once a day (UTC)
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:   # allows manual runs from the Actions tab
 
 permissions:
-  contents: write
+  contents: write      # allow pushing generated files
 
 jobs:
   build:
@@ -15,12 +15,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake animation SVGs (Dark Theme)
+      - name: Generate Snake animation SVGs (Light Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: gauravjha0711
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#39FF14&color_dots=#39FF14,#00FFFF,#FF00FF
+            dist/github-snake-light.svg?palette=github-light&color_snake=#FF5733&color_dots=#FFC300,#FF5733,#FF69B4
 
       - name: Publish `dist` to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -29,4 +29,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
