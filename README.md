@@ -30,12 +30,12 @@
 ### ⚡️ Feel free to Connect with Me:
 
 <p align="center">
- <a href="https://gauravjha.software/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4caf50/portfolio.png" alt="gauravjha.software" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav-kumar-729503265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kumar-729503265" height="30" width="40" /></a>
-<a href="https://instagram.com/gauravjhagk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravjhagk" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/gauravjha0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravjha0711" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gauravjha0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravjha0711" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gauravjha0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravjha0711" height="30" width="40" /></a>
+  <a href="https://gauravjha.software/" target="blank"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gaurav-kumar-729503265" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/gauravjhagk" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/gauravjha0711" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://hackerrank.com/gauravjha0711" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/gauravjha0711" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
