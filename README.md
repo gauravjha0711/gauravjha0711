@@ -40,6 +40,24 @@ Building scalable web applications with modern technologies and cloud-native arc
 
 ---
 
+# 💻 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/gauravjha0711">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://hackerrank.com/gauravjha0711">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/gauravjha0711">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 ## 🛒 CapShop E-Commerce Platform
@@ -125,24 +143,6 @@ Building scalable web applications with modern technologies and cloud-native arc
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com/gauravjha0711">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://hackerrank.com/gauravjha0711">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/gauravjha0711">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
 </p>
 
 ---
